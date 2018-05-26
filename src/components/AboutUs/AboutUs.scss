@@ -1,0 +1,22 @@
+.about-us {
+  &__title {
+    text-align: center;
+  }
+
+  &__content {
+    max-width: 1000px;
+    margin: auto;
+    font-size: 1.2em;
+
+    p {
+      margin-bottom: 1em;
+    }
+  }
+
+  &__cta {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+  }
+}
