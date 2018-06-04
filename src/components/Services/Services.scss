@@ -1,0 +1,28 @@
+.services {
+  &__container {
+    display: flex;
+    flex-wrap: wrap;
+
+    .card {
+      flex-basis: (100% / 3);
+
+      &__container {
+        height: calc(100% - 40px);
+        margin: 20px;
+        box-shadow: 0 0 15px #ccc;
+      }
+
+      &__content {
+        padding: 20px;
+      }
+
+      &__image {
+        //background: #000 no-repeat fixed center;
+        //background-size: 100% 100%;
+        display: block;
+        width: 100%;
+        //height: 50px;
+      }
+    }
+  }
+}

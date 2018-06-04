@@ -1,5 +1,10 @@
 <template>
   <div>
+    <div
+      :style="`background-image: url('${$root.mediaBaseUrl}images/headers/Home_Var2.jpeg')`"
+      class="hero-banner"
+    />
+    <Services/>
     <AboutUs/>
   </div>
 </template>

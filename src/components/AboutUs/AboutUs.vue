@@ -17,16 +17,16 @@
         the power of Intelligent Digital Marketing Communications. Having worked with a wide
         range of businesses in Entertainment, Luxury Cosmetics & Fashion, Lifestyle and
         Technology worldwide, we have always put our heart and soul into combining Creativity
-        and Intelligence, delivering outstanding results. We’re constantly aligning ourselves to our
-        individual clients’ goals and priorities, becoming essentially an effective extension of their
-        company.
+        and Intelligence, delivering outstanding results. We’re constantly aligning ourselves to
+        our individual clients’ goals and priorities, becoming essentially an effective extension
+        of their company.
       </p>
       <p>
         Flexible, autonomous and accountable, we spread our wings globally, supporting our
-        clients on their way to “fame” by offering the full range of services to enable and accelerate
-        a powerful growth: Marketing & Branding Strategy Consulting, Omnichannel Marketing &
-        Automation, Social Media Marketing & Management as well as Media Production (Photo,
-        Video and Web)
+        clients on their way to “fame” by offering the full range of services to enable and
+        accelerate a powerful growth: Marketing & Branding Strategy Consulting, Omnichannel
+        Marketing & Automation, Social Media Marketing & Management as well as Media
+        Production (Photo, Video and Web)
       </p>
       <p>
         Whether it is only support for building a powerful Marketing Strategy, or full campaign

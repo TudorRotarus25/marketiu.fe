@@ -1,0 +1,32 @@
+$theme-color-accent: #8c0010;
+$theme-color-white: #fff;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.button {
+  padding: 1em;
+  border: 1px solid $theme-color-accent;
+  background: transparent;
+  color: $theme-color-accent;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: $theme-color-accent;
+  color: $theme-color-white;
+}
+
+#app {
+  font-size: 16px;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

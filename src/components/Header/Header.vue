@@ -5,7 +5,9 @@
         <img src="../../assets/logo-white.png" alt="Marketiu">
       </a>
     </div>
-    <a class="mobile-menu-button"><i class="fa fa-bars" aria-hidden="true"></i></a>
+    <a class="mobile-menu-button">
+      <i class="fa fa-bars" aria-hidden="true"/>
+    </a>
     <ul class="navigation-menu">
       <i class="fa fa-times close-navigation-button" aria-hidden="true"></i>
       <li>

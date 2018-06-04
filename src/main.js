@@ -12,4 +12,9 @@ new Vue({
   router,
   components: { App },
   template: '<App/>',
+  data() {
+    return {
+      mediaBaseUrl: 'https://s3.eu-west-2.amazonaws.com/marketiu-resources/frontend/',
+    };
+  },
 });
